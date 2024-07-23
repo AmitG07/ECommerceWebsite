@@ -1,0 +1,103 @@
+{
+  "Routes": [
+
+    // Authentication Web API
+    {
+      "UpstreamPathTemplate": "/api/Account",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "AuthenticationWebApi",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "AuthenticationWebApi",
+          "Port": 80
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Account"
+    },
+
+    //Product Web API
+    {
+      "UpstreamPathTemplate": "/api/Products",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "Products",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Products",
+          "Port": 80
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Products",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "Administrator"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/Products/{productId}",
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "Products",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Products",
+          "Port": 80
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Products/{productId}"
+    },
+
+    // Order Web API
+    {
+      "UpstreamPathTemplate": "/api/Order",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "Order",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Order",
+          "Port": 80
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Order",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "User"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/Order/{id}",
+      "UpstreamHttpMethod": [ "Get", "Delete", "Put" ],
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "Order",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Order",
+          "Port": 80
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Order/{id}"
+    }
+  ],
+  "GlobalConfiguration": {
+    "UseServiceDiscovery": true,
+    "ServiceDiscoveryProvider": {
+      "Host": "gateway",
+      "Port": 80,
+      //Type can be Consul, Eureka
+      "Type": "Eureka"
+    }
+  }
+}

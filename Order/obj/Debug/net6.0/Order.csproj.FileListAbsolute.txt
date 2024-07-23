@@ -1,0 +1,149 @@
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\appsettings.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.exe
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.deps.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.runtimeconfig.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.pdb
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Ocelot.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Ocelot.Provider.Eureka.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Ocelot.Provider.Polly.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Polly.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.csproj.AssemblyReference.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.AssemblyInfoInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.AssemblyInfo.cs
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.Order.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.build.Order.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Order.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Order.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\scopedcss\bundle\Order.styles.css
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.csproj.CopyComplete
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\refint\Order.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.pdb
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.genruntimeconfig.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\ref\Order.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\appsettings.Development.json
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\appsettings.json
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.exe
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.deps.json
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.runtimeconfig.json
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Order.pdb
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.csproj.AssemblyReference.cache
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.AssemblyInfoInputs.cache
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.AssemblyInfo.cs
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.csproj.CoreCompileInputs.cache
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets.build.json
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets.development.json
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.Order.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.build.Order.props
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Order.props
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Order.props
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\scopedcss\bundle\Order.styles.css
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.csproj.CopyComplete
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.dll
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\refint\Order.dll
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.pdb
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\Order.genruntimeconfig.cache
+C:\Assignment\EcommerceWebsite\Order\obj\Debug\net6.0\ref\Order.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\MassTransit.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Text.Json.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Shared.dll
+C:\Assignment\EcommerceWebsite\Order\bin\Debug\net6.0\Shared.pdb

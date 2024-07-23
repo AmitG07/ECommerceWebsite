@@ -1,0 +1,208 @@
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.exe
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.deps.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.runtimeconfig.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.pdb
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Kros.Utils.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\MMLib.SwaggerForOcelot.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Eureka.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Polly.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Polly.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGateway.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGateway.props
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\scopedcss\bundle\APIGateway.styles.css
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CopyComplete
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\refint\APIGateway.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.pdb
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\amit04\OneDrive - Nagarro\Desktop\Microservice Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\appsettings.json
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\ocelot.json
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.exe
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.deps.json
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.runtimeconfig.json
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\APIGateway.pdb
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Azure.Core.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Azure.Identity.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\IPAddressRange.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Kros.Utils.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\MMLib.SwaggerForOcelot.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Eureka.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Ocelot.Provider.Polly.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Polly.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Polly.Core.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Assignment\EcommerceWebsite\APIGateway\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CoreCompileInputs.cache
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.APIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGateway.props
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway.props
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGateway.props
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\scopedcss\bundle\APIGateway.styles.css
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.csproj.CopyComplete
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.dll
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\refint\APIGateway.dll
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.pdb
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
+C:\Assignment\EcommerceWebsite\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll

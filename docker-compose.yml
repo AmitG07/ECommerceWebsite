@@ -1,0 +1,75 @@
+version: '3.4'
+
+services:
+  rabbitmq:
+    container_name: "rabbitmq"
+    image: rabbitmq:3-management
+    environment:
+      - RABBITMQ_DEFAULT_USER=myuser
+      - RABBITMQ_DEFAULT_PASS=myuser1
+    ports:
+      # RabbitMq instance
+      - '5672:5672'
+      # web interface
+      - '15672:15672'
+    networks:
+      - backend_network
+
+  eureka-server:
+    container_name: eureka-server
+    image: steeltoeoss/eurekaserver:latest
+    restart: on-failure
+    hostname: eureka-server
+    networks:
+      - backend_network
+
+  order:
+    container_name: order
+    image: ${DOCKER_REGISTRY-}order
+    restart: on-failure
+    hostname: order
+    build:
+      context: .
+      dockerfile: Order/Dockerfile
+    networks:
+      - backend_network
+
+  products:
+    container_name: products
+    image: ${DOCKER_REGISTRY-}products
+    restart: on-failure
+    hostname: products
+    build:
+      context: .
+      dockerfile: Products/Dockerfile
+    networks:
+      - backend_network
+
+
+  apigateway:
+    container_name: apigateway
+    image: ${DOCKER_REGISTRY-}apigateway
+    restart: on-failure
+    hostname: apigateway
+    build:
+      context: .
+      dockerfile: APIGateway/Dockerfile
+    networks:
+      - backend_network
+
+
+  authenticationwebapi:
+    container_name: authenticationwebapi
+    image: ${DOCKER_REGISTRY-}authenticationwebapi
+    restart: on-failure
+    hostname: authenticationwebapi
+    build:
+      context: .
+      dockerfile: AuthenticationWebApi/Dockerfile
+    networks:
+      - backend_network
+
+
+networks:
+    backend_network:
+
